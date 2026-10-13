@@ -1,0 +1,1 @@
+Create an ER diagram here after Lesson 3 and a star-schema diagram after the dimensional modelling lesson.
